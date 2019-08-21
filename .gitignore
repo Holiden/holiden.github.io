@@ -1,0 +1,17 @@
+#Filename extension
+*.pdf
+*.psd
+
+#File
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+
+#Folder
+node_modules
+source
+
+#Configs
+gulpfile.js
+package-lock.json
+package.json
