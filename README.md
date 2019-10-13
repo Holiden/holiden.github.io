@@ -4,7 +4,8 @@
 
 ## Контакты
 [telegram](https://t.me/holiden)  
-[vk](https://vk.com/holiden)
+[vk](https://vk.com/holiden)  
+[email](holideny@gmail.com)
 
 ## Стек технологий
 1. `HTML`;
@@ -20,4 +21,5 @@
 
 ## Контакты
 [telegram](https://t.me/holiden)  
-[vk](https://vk.com/holiden)
+[vk](https://vk.com/holiden)  
+[email](holideny@gmail.com)

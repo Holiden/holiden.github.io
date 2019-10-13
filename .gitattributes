@@ -6,6 +6,8 @@
 *.html  text
 *.js    text
 *.json  text
+*.less  text
+*.pug   text
 *.sass  text
 *.scss  text
 
@@ -15,6 +17,8 @@
 LICENSE  text
 
 #Configs
+*.handlebars       text
+.editorconfig      text
 .gitattributes     text
 .gitignore         text
 package-lock.json  text -diff
